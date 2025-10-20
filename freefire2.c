@@ -1,4 +1,4 @@
-// nivel aventureiro
+// nível aventureiro
 
 #include <stdio.h>
 #include <stdlib.h>
